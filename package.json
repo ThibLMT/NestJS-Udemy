@@ -1,5 +1,5 @@
 {
-  "name": "nestjs-task-management",
+  "name": "nestjs-task-management-v2",
   "version": "0.0.1",
   "description": "",
   "author": "",
@@ -21,7 +21,7 @@
     "test:e2e": "jest --config ./test/jest-e2e.json"
   },
   "dependencies": {
-    "@nestjs/common": "^8.0.0",
+    "@nestjs/common": "^7.6.15",
     "@nestjs/core": "^7.6.15",
     "@nestjs/platform-express": "^7.6.15",
     "@nestjs/typeorm": "^7.1.5",
